@@ -1,0 +1,91 @@
+body {
+    background: linear-gradient(to bottom right, rgba(180, 235, 135, 0.151), #354e83db);
+    font-family: "Century Gothic";
+}
+
+#pageLayout {
+    width: 800px;
+    margin: 40px auto 60px;
+    overflow: hidden;
+}
+
+img {
+    float: right;
+    height: 325px;
+    width: 250px;
+    margin: -10px 0 0 0;
+}
+
+.intro {
+    border: 1px solid rgba(100%, 100%, 100%, 0.88);
+    text-align:center;
+    width: 500px;
+    padding:5px 5px;
+    line-height: 22px;
+}
+
+h1 {
+    background-color:rgba(156, 230, 248, 0.089);
+    padding: 0px;
+    margin: 0px auto 5px;
+}
+
+hr{
+    margin:-2px 0;
+}
+
+.breakPoint {
+    clear: both;
+    height: 20px;
+}
+
+h2 {
+    color:rgba(245, 245, 245, 0.74);
+    font-size: 22px;
+    float: left;
+    width: 25%;
+    height: 100px;
+    border-right: 1px solid black;
+    padding: 0px;
+    margin: 0 0 5px 0;
+}
+
+.edu{
+    background:rgba(9, 44, 110, 0.466);
+}
+
+.wrkHis{
+    background:rgba(9, 45, 110, 0.692);
+}
+
+.Hobbies{
+     background:rgba(9, 44, 110, 0.466);
+}
+
+.References{
+    background:rgba(9, 45, 110, 0.692);
+}
+
+.ds {
+    float: right;
+    width: 70%;
+}
+
+h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.dates {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ul {
+    padding: 0;
+    margin: 0px;
+}
+
+.ref {
+    margin: 0;
+}
